@@ -1,4 +1,6 @@
 需要配置node.js环境
+pip install PyExecJS
+pip install requests
 直接打开网易云.py运行即可
 会在此文件所在文件夹下创建一个music文件夹，歌曲会存放在里面
 本人实力有限，代码不太美观，望谅解
